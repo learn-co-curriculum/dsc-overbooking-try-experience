@@ -1,6 +1,6 @@
 # Hotel overbooking
 
-<img src="https://learn-co-curriculum.github.io/dsc-overbooking-try-experience/front-desk-pixel.jpg">
+<img src="https://learn-co-curriculum.github.io/dsc-overbooking-try-experience/front-desk-pixel.jpg" width="300" >
 
 ## Objectives for this course
 
