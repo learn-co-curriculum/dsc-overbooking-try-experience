@@ -1,5 +1,5 @@
 for character in ('$$', '$'):
-    file_name = 'input('enter file name')
+    file_name = 'p-5-multiple-bernoulli.md'
     f = open(file_name, 'r')
     data = f.read()
     f.close()
