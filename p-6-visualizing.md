@@ -2,10 +2,15 @@
 
 ## Objectives for this lesson
 
+- Using a Google Colab notebook, visualize the probability of customers not showing for a booked room
+- Calculate the best number of rooms to overbook for the best profitability.
 ***
 
+For us to get an idea of how these experiments can help us understand it is good to graph the results.  In the link below, you will be taken to a Google Colab notebook which will allow you to see and run the actual code to create charts of these experiments.  Click on the link below and return to this page once you have finished to continue through the lesson.
 
+Visualizing a coin flip: <a href="https://colab.research.google.com/drive/1exKxwWkeaa563DXF2knux2egvpMyeCUL?usp=sharing">Click Here</a>
 
-To get a full picture on how likely it is to throw a heads a certain number of times, you can visualize this in a plot. In the plot below, you can see for each possible outcome (ranging from "throwing heads 0 times" to "throwing heads 5 times" how likely it is: for 4 heads, you see it's about 16% chance. For 3 heads, it's about 31%.
+## Recap
 
-<iframe height="800px" width="100%" src="https://repl.it/@DSExperience/Bernoulli8?lite=true&codeonly=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+***
+
